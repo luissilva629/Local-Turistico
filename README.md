@@ -1,6 +1,6 @@
 # 🗺️ Local Turístico
 
-Este é um projeto de uma página web informativa sobre um destino turístico, desenvolvido como parte de um desafio prático da trilha Fullstack da **Rocketseat**. O foco principal foi o domínio de estruturas HTML semânticas e a estilização avançada com CSS.
+Este é um projeto de uma página web informativa sobre um destino turístico, desenvolvido como parte de um desafio prático da trilha Fullstack da **Rocketseat**. O foco principal foi o domínio de estruturas HTML semânticas e a estilização com CSS.
 
 ## 🚀 Tecnologias
 
