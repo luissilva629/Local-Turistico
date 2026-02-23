@@ -7,16 +7,21 @@ Este é um projeto de uma página web informativa sobre um destino turístico, d
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **HTML5**: Estruturação semântica do conteúdo.
-- **CSS3**: Estilização, layout (Flexbox) e efeitos visuais.
+- **CSS3**: Estilização, layout e efeitos visuais.
 - **Google Fonts**: Tipografia personalizada.
 
 ## 🎨 Funcionalidades e Aprendizados
 
 Durante o desenvolvimento deste projeto, foram aplicados fundamentos do HTML e CSS.
 
+## 📸 Preview
+
+![Preview do Projeto](./assets/preview.png)
 
 ## 💻 Como visualizar o projeto
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/luissilva629/Local-Turistico.git
+
+2. Abra o arquivo index.html
