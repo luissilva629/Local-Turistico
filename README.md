@@ -12,12 +12,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🎨 Funcionalidades e Aprendizados
 
-Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes de front-end:
+Durante o desenvolvimento deste projeto, foram aplicados fundamentos do HTML e CSS.
 
-- **Filtros CSS**: Uso de `filter: blur()` para efeitos de desfoque em imagens.
-- **Sobreposição de Camadas**: Aplicação de cores sobre imagens utilizando `linear-gradient` e pseudo-elementos (`::before`).
-- **Layout Responsivo**: Organização de elementos para diferentes resoluções.
-- **Backgrounds**: Manipulação de imagens de fundo com `background-size: cover` e posicionamento.
 
 ## 💻 Como visualizar o projeto
 
