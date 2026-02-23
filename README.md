@@ -19,4 +19,4 @@ Durante o desenvolvimento deste projeto, foram aplicados fundamentos do HTML e C
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/luissilva629/Local-Turistico.git
